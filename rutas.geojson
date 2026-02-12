@@ -1,8 +1,14 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "RUNELA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23391,15 +23397,17 @@
             43.007053
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 1",
-        "color": "#e600aa55",
-        "indice": 0
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "KILOMETRO VERTICAL CASTRO VALNERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26552,15 +26560,17 @@
             43.143202
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 2",
-        "color": "#e6ffaaff",
-        "indice": 1
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SKY PICON CASTRO 2024",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -38449,15 +38459,17 @@
             43.076793
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 3",
-        "color": "#99ffaaff",
-        "indice": 2
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "TRAIL PICON CASTRO 2024",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -39566,15 +39578,17 @@
             43.076776
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 4",
-        "color": "#990000ff",
-        "indice": 3
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "ULTRA PICON CASTRO 2024",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -80551,15 +80565,17 @@
             43.07678
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 5",
-        "color": "#b30000ff",
-        "indice": 4
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffffff",
+        "name": "RUTA 43",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -87204,15 +87220,17 @@
             43.060787
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 6",
-        "color": "#ffffaaff",
-        "indice": 5
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA EL RESQUEBRAJO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -88493,15 +88511,17 @@
             43.15472
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 7",
-        "color": "#e60000ff",
-        "indice": 6
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA DEL COLLADO DEL CASTRO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -90718,15 +90738,17 @@
             43.13914
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 8",
-        "color": "#ff0000ff",
-        "indice": 7
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA VALLE DE LUNADA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -94291,15 +94313,17 @@
             43.17084
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 9",
-        "color": "#00ff00ff",
-        "indice": 8
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA CABAÑAS DEL BERNACHO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -95328,15 +95352,17 @@
             43.14785
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 10",
-        "color": "#0000ffff",
-        "indice": 9
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA DE LA CANAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -96753,15 +96779,17 @@
             43.13917644087829
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 11",
-        "color": "#e600aa55",
-        "indice": 10
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA CASCADA GUARGUERO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -99102,15 +99130,17 @@
             43.11536
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 12",
-        "color": "#e6ffaaff",
-        "indice": 11
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA VALLE DEL CURRO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -101111,15 +101141,17 @@
             43.1376
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 13",
-        "color": "#99ffaaff",
-        "indice": 12
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA BARRIO DE SALCEDILLO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -101916,15 +101948,17 @@
             43.12717
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 14",
-        "color": "#990000ff",
-        "indice": 13
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA DE LA FRENTE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -103905,15 +103939,17 @@
             43.11774
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 15",
-        "color": "#b30000ff",
-        "indice": 14
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA VALLE DE RIOSECO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -107162,15 +107198,17 @@
             43.11784
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 16",
-        "color": "#ffffaaff",
-        "indice": 15
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA BARRIOS DE LA SIA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -110159,15 +110197,17 @@
             43.11787
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 17",
-        "color": "#e60000ff",
-        "indice": 16
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA CAMINOS DE LA SONSIERRA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -114092,15 +114132,17 @@
             43.07498
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 18",
-        "color": "#ff0000ff",
-        "indice": 17
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA CAMINOS DE LA NOCEDA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -116753,15 +116795,17 @@
             43.07498
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 19",
-        "color": "#00ff00ff",
-        "indice": 18
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA EL ROBLEDAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -118162,15 +118206,17 @@
             43.0669
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 20",
-        "color": "#0000ffff",
-        "indice": 19
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA DEL MONTE HEDILLA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -121811,15 +121857,17 @@
             43.075927
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 21",
-        "color": "#e600aa55",
-        "indice": 20
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA ENTRE PRADOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -123348,15 +123396,17 @@
             43.07596
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 22",
-        "color": "#e6ffaaff",
-        "indice": 21
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA DE LA LOBERA Y CASTOMORCA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -126381,15 +126431,17 @@
             43.11575
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 23",
-        "color": "#99ffaaff",
-        "indice": 22
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA DEL ESTRAPERLO Y MINGO PAJARO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -132726,15 +132778,17 @@
             43.076619
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 24",
-        "color": "#990000ff",
-        "indice": 23
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffffff",
+        "name": "SENDA PRADOS DE LOS AHIDIOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -142639,15 +142693,17 @@
             43.032988
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 25",
-        "color": "#b30000ff",
-        "indice": 24
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "VUELTA AL COLINA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -154472,15 +154528,17 @@
             43.199087
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 26",
-        "color": "#ffffaaff",
-        "indice": 25
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDERO DEL HONDOJON",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -164265,15 +164323,17 @@
             43.199032
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 27",
-        "color": "#e60000ff",
-        "indice": 26
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "RIBERAS DE YERA Y AJAN",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -171514,15 +171574,17 @@
             43.157293
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 28",
-        "color": "#ff0000ff",
-        "indice": 27
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA EL VENTANON",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -179419,15 +179481,17 @@
             43.033524
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 29",
-        "color": "#00ff00ff",
-        "indice": 28
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA HAYAL DE QUINTANILLA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -187576,15 +187640,17 @@
             43.055846
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 30",
-        "color": "#0000ffff",
-        "indice": 29
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA VALLE DE SOTOSCUEVA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -192929,15 +192995,17 @@
             43.049806
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 31",
-        "color": "#e600aa55",
-        "indice": 30
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "SENDA ENTRE DESFILADEROS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -197178,15 +197246,17 @@
             43.056779
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 32",
-        "color": "#e6ffaaff",
-        "indice": 31
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "PRADERAS DE RUYEMAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -201211,15 +201281,17 @@
             43.145696
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 33",
-        "color": "#99ffaaff",
-        "indice": 32
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffffff",
+        "name": "SENDA CASCADA SALCEDA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -204352,15 +204424,17 @@
             43.04985
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 34",
-        "color": "#990000ff",
-        "indice": 33
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#0000ff",
+        "name": "GR74 2.LA GANDARA-SAN ROQUE DE RIOMIERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -205321,15 +205395,17 @@
             43.234914
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 35",
-        "color": "#b30000ff",
-        "indice": 34
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CASCADA BARRANCO DEL COLLADO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -205742,15 +205818,17 @@
             43.08541922642348
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 36",
-        "color": "#ffffaaff",
-        "indice": 35
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "PORTILLO DE EGANA-CASTRO GRANDE-LA COMPLACERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -213047,15 +213125,17 @@
             43.058857
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 37",
-        "color": "#e60000ff",
-        "indice": 36
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#00aa00",
+        "name": "PORRACOLINA POR ROLACIAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -217596,15 +217676,17 @@
             43.238373
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 38",
-        "color": "#ff0000ff",
-        "indice": 37
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "ALTERNATIVA SUBIDA A LA MOTA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -219205,15 +219287,17 @@
             43.137626
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 39",
-        "color": "#00ff00ff",
-        "indice": 38
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CASCADA DE LAS PISAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -227274,15 +227358,17 @@
             42.982557
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 40",
-        "color": "#0000ffff",
-        "indice": 39
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "PASEO MONTIJA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -231035,15 +231121,17 @@
             43.060681
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 41",
-        "color": "#e600aa55",
-        "indice": 40
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "EL BISLO Y PEÑA MAZO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -237888,15 +237976,17 @@
             43.001721
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 42",
-        "color": "#e6ffaaff",
-        "indice": 41
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CIRCULAR CAÑONEROS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -246053,15 +246143,17 @@
             43.151509
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 43",
-        "color": "#99ffaaff",
-        "indice": 42
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "SUBIDA NORMAL AL COTERO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -250506,15 +250598,17 @@
             43.064516
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 44",
-        "color": "#990000ff",
-        "indice": 43
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "QUISICEDO-QUINTANILLA DEL REBOLLAR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -253495,15 +253589,17 @@
             43.057014
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 45",
-        "color": "#b30000ff",
-        "indice": 44
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "ALTO DEL LADRERO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -256364,15 +256460,17 @@
             43.033949
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 46",
-        "color": "#ffffaaff",
-        "indice": 45
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "LOBERA CASTROBARTO Y PORTILLO LA MAGDALENA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -263761,15 +263859,17 @@
             43.057542
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 47",
-        "color": "#e60000ff",
-        "indice": 46
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "VALDICIO CUETO CABRONES Y PICONES DE CALLEJA ALBIRA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -270874,15 +270974,17 @@
             43.229557
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 48",
-        "color": "#ff0000ff",
-        "indice": 47
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CONCEJO MAYOR POR CASTAÑOS CENTENARIOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -275819,15 +275921,17 @@
             43.051733
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 49",
-        "color": "#00ff00ff",
-        "indice": 48
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "PARAPETOS DE GAYANGOS Y QUINTANILLA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -284856,15 +284960,17 @@
             42.999554
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 50",
-        "color": "#0000ffff",
-        "indice": 49
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "HEDESA NOCECO CIRCULAR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -287753,15 +287859,17 @@
             43.074824
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 51",
-        "color": "#e600aa55",
-        "indice": 50
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "MONTES DEL CABRIO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -296458,15 +296566,17 @@
             43.088189
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 52",
-        "color": "#e6ffaaff",
-        "indice": 51
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "BALMASEDA-ESPINOSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -329263,15 +329373,17 @@
             43.079475
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 53",
-        "color": "#99ffaaff",
-        "indice": 52
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CUEVAS DE SAN MIGUEL Y CURTIVERANOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -339548,15 +339660,17 @@
             43.02503
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 54",
-        "color": "#990000ff",
-        "indice": 53
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "PEÑALBA DE LERDANO DESDE VILLABASIL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -342569,15 +342683,17 @@
             43.030666
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 55",
-        "color": "#b30000ff",
-        "indice": 54
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "PORTILLOS DEL CUATRO Y EL POLBERO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -349754,15 +349870,17 @@
             43.094541
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 56",
-        "color": "#ffffaaff",
-        "indice": 55
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "BALGERRI DESDE HORNES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -360507,15 +360625,17 @@
             43.135829
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 57",
-        "color": "#e60000ff",
-        "indice": 56
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CASCADA DE AGUASAL DESDE SAN PELAYO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -362036,15 +362156,17 @@
             43.108771
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 58",
-        "color": "#ff0000ff",
-        "indice": 57
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CASCADA ARROYO RUVENTE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -365425,15 +365547,17 @@
             43.165778
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 59",
-        "color": "#00ff00ff",
-        "indice": 58
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "DULLA DESDE VALDEBODRES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -370050,15 +370174,17 @@
             42.984633
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 60",
-        "color": "#0000ffff",
-        "indice": 59
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CASCADAS DE AGUASAL Y LAS ENDERROZAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -378563,15 +378689,17 @@
             43.097006
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 61",
-        "color": "#e600aa55",
-        "indice": 60
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "RUTA HERALDICA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -381220,15 +381348,17 @@
             43.076452
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 62",
-        "color": "#e6ffaaff",
-        "indice": 61
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CASCADA DE LA OSERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -385505,15 +385635,17 @@
             43.052385
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 63",
-        "color": "#99ffaaff",
-        "indice": 62
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CRESTA PIZARRAS-CARRIO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -387714,15 +387846,17 @@
             43.193369
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 64",
-        "color": "#990000ff",
-        "indice": 63
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CASTROS DE HORNEO (MANHATTAN)",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -388387,15 +388521,17 @@
             43.20808267150736
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 65",
-        "color": "#b30000ff",
-        "indice": 64
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CIRCULAR PICON BLANCO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -389128,15 +389264,17 @@
             43.077566
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 66",
-        "color": "#ffffaaff",
-        "indice": 65
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CIRCULAR ZALAMA DESDE SAN PELAYO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -396861,15 +396999,17 @@
             43.109429
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 67",
-        "color": "#e60000ff",
-        "indice": 66
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "RUTA DE LA BATALLA DE ESPINOSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -404746,15 +404886,17 @@
             43.076371
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 68",
-        "color": "#ff0000ff",
-        "indice": 67
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "HORRA Y HORMIAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -409899,15 +410041,17 @@
             43.145927
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 69",
-        "color": "#00ff00ff",
-        "indice": 68
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "AGUASAL Y CHURRON DE AGUALTO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -412080,15 +412224,17 @@
             43.152071
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 70",
-        "color": "#0000ffff",
-        "indice": 69
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CABAÑALES ALTO TRUEBA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -418437,15 +418583,17 @@
             43.115729
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 71",
-        "color": "#e600aa55",
-        "indice": 70
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "NEVERO DEL POYUELO DESDE QUISICEDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -423542,15 +423690,17 @@
             43.088063
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 72",
-        "color": "#e6ffaaff",
-        "indice": 71
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "VUELTA A LOS CAMPANARIOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -433355,15 +433505,17 @@
             43.170837
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 73",
-        "color": "#99ffaaff",
-        "indice": 72
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "VUELTA AL VALLE DEL VEINTE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -439236,15 +439388,17 @@
             43.170916
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 74",
-        "color": "#990000ff",
-        "indice": 73
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "RUTA SIN TÍTULO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -439281,15 +439435,17 @@
             43.18294210889174
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 75",
-        "color": "#b30000ff",
-        "indice": 74
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CONCHA-RESBALADERO-CV",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -452966,15 +453122,17 @@
             43.208584
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 76",
-        "color": "#ffffaaff",
-        "indice": 75
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "VUELTA AL PICON DEL FRAILE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -456167,15 +456325,17 @@
             43.180192
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 77",
-        "color": "#e60000ff",
-        "indice": 76
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CARRASCOSA DESDE LAS MACHORRAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -460852,15 +461012,17 @@
             43.093463
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 78",
-        "color": "#ff0000ff",
-        "indice": 77
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CARRASCOSA-PEÑA CHURRA-POYUELO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -464221,15 +464383,17 @@
             43.09210881898254
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 79",
-        "color": "#00ff00ff",
-        "indice": 78
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "NEVERO DEL POYUELO DESDE EL PARDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -466122,15 +466286,17 @@
             43.088093
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 80",
-        "color": "#0000ffff",
-        "indice": 79
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "CIRCULAR AL PICO DE LA MIEL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -469523,15 +469689,17 @@
             43.165531
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 81",
-        "color": "#e600aa55",
-        "indice": 80
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "SUBIDA A LA IMUNIA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -470476,15 +470644,17 @@
             43.150173
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 82",
-        "color": "#e6ffaaff",
-        "indice": 81
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "HONDOJON DESDE LUNADA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -475505,15 +475675,17 @@
             43.171268
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 83",
-        "color": "#99ffaaff",
-        "indice": 82
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#00aa00",
+        "name": "NORMAL A PEÑA LUSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -477474,15 +477646,17 @@
             43.15942
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 84",
-        "color": "#990000ff",
-        "indice": 83
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "COTERO LOS LOBOS-COLLADO DE LA HORMAZA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -477551,15 +477725,17 @@
             43.10417548291126
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 85",
-        "color": "#b30000ff",
-        "indice": 84
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#00aa00",
+        "name": "LA MARRUYA Y COTERO DESDE LA HORMAZA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -486236,15 +486412,17 @@
             43.118409
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 86",
-        "color": "#ffffaaff",
-        "indice": 85
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#00aa00",
+        "name": "CIRCULAR A LAS MOTAS DEL PARDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -490713,15 +490891,17 @@
             43.11758
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 87",
-        "color": "#e60000ff",
-        "indice": 86
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#00aa00",
+        "name": "PEÑA NEGRA DESDE ESTACAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -493206,15 +493386,17 @@
             43.13801324494634
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 88",
-        "color": "#ff0000ff",
-        "indice": 87
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#00aa00",
+        "name": "CIRCULAR CV",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -495839,15 +496021,17 @@
             43.147379
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 89",
-        "color": "#00ff00ff",
-        "indice": 88
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#00aa00",
+        "name": "COLLADO CV DESDE KM 21",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -498432,15 +498616,17 @@
             43.11644
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 90",
-        "color": "#0000ffff",
-        "indice": 89
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "YERA-LA MARRUYA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -507265,15 +507451,17 @@
             43.135833
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 91",
-        "color": "#e600aa55",
-        "indice": 90
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "LOS TORNOS-BULACABRA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -510842,15 +511030,17 @@
             43.13911
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 92",
-        "color": "#e6ffaaff",
-        "indice": 91
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CASCADAS ARROYOS ARGOMEDO Y ARGUMAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -512047,15 +512237,17 @@
             43.161677
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 93",
-        "color": "#99ffaaff",
-        "indice": 92
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PORRACOLINA-PIPIONES-MOSQUITERU",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -514204,15 +514396,17 @@
             43.249986
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 94",
-        "color": "#990000ff",
-        "indice": 93
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CORDAL DE LAS JOROBAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -517901,15 +518095,17 @@
             43.247319
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 95",
-        "color": "#b30000ff",
-        "indice": 94
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#00aa00",
+        "name": "REFUGIO GUSMADERMIA DESDE LA CALERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -530430,15 +530626,17 @@
             43.162901
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 96",
-        "color": "#ffffaaff",
-        "indice": 95
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "LOS TORNEROS-LAS CRESPAS.KMZ",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -531075,15 +531273,17 @@
             43.115649
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 97",
-        "color": "#e60000ff",
-        "indice": 96
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CARBONERAS DE LAS BLANQUIAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -531692,15 +531892,17 @@
             43.15145159734274
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 98",
-        "color": "#ff0000ff",
-        "indice": 97
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PEÑA BECERRIL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -531897,15 +532099,17 @@
             43.170322
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 99",
-        "color": "#00ff00ff",
-        "indice": 98
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CABAÑALES POR VIAÑA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -540978,15 +541182,17 @@
             43.131689
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 100",
-        "color": "#0000ffff",
-        "indice": 99
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "ESTRAPERLO PASIEGO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -551447,15 +551653,17 @@
             43.129215
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 101",
-        "color": "#e600aa55",
-        "indice": 100
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "LA MARRUYA POR LA ENGAÑA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -555308,15 +555516,17 @@
             43.102674
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 102",
-        "color": "#e6ffaaff",
-        "indice": 101
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "BUSQUEMAO Y CARRICUETA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -557173,15 +557383,17 @@
             43.161269
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 103",
-        "color": "#99ffaaff",
-        "indice": 102
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CIRCULAR LOMA-VILLASANTE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -558514,15 +558726,17 @@
             43.060655
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 104",
-        "color": "#990000ff",
-        "indice": 103
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "BUSQUEMAO Y CASCADAS ARROYO ARGUMAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -559807,15 +560021,17 @@
             43.160878
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 105",
-        "color": "#b30000ff",
-        "indice": 104
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PARA-MINGO PAJARO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.8
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -563588,15 +563804,17 @@
             43.070581
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 106",
-        "color": "#ffffaaff",
-        "indice": 105
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "TRINCHERAS DE SAN MARTIN",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -565109,15 +565327,17 @@
             43.070695
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 107",
-        "color": "#e60000ff",
-        "indice": 106
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "LOS MOJONES-SOMAZORRA-RUPERIO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -566750,15 +566970,17 @@
             43.072672
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 108",
-        "color": "#ff0000ff",
-        "indice": 107
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CIRCULAR BUSTABLIEGA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -575391,15 +575613,17 @@
             43.091851
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 109",
-        "color": "#00ff00ff",
-        "indice": 108
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "LA SARROJA-PRAMONTE-CAMPIO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -577192,15 +577416,17 @@
             43.132768
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 110",
-        "color": "#0000ffff",
-        "indice": 109
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CADAGUA-PEÑA MAYOR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -581989,15 +582215,17 @@
             43.055427
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 111",
-        "color": "#e600aa55",
-        "indice": 110
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PEÑA MAYOR DESDE MUGA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -587590,15 +587818,17 @@
             43.047506
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 112",
-        "color": "#e6ffaaff",
-        "indice": 111
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PORTILLOS DE AVELLANEDA Y EL POLBERO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -591395,15 +591625,17 @@
             43.077779
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 113",
-        "color": "#99ffaaff",
-        "indice": 112
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "MONTES DE LA PEÑA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -603980,15 +604212,17 @@
             43.047298
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 114",
-        "color": "#990000ff",
-        "indice": 113
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PORTILLOS DE OCIJO Y COROSMA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -613017,15 +613251,17 @@
             43.086649
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 115",
-        "color": "#b30000ff",
-        "indice": 114
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PORTILLOS DE COROSMA Y HUMARRAÑA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -616922,15 +617158,17 @@
             43.07341
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 116",
-        "color": "#ffffaaff",
-        "indice": 115
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PEÑA MANTEQUERA Y PEÑA HORRERO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -622591,15 +622829,17 @@
             43.008826
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 117",
-        "color": "#e60000ff",
-        "indice": 116
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "BAJADA PICO LA MIEL POR LA MOTA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -623536,15 +623776,17 @@
             43.158958
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 118",
-        "color": "#ff0000ff",
-        "indice": 117
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "SUBIDA CALLEJON DE LAS CUBADAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -624441,15 +624683,17 @@
             43.13947372731991
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 119",
-        "color": "#00ff00ff",
-        "indice": 118
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "LOS PICONES DE SOPEÑA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -631014,15 +631258,17 @@
             43.189964
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 120",
-        "color": "#0000ffff",
-        "indice": 119
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "VUELTA MONTE LAS CRESPAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -636595,15 +636841,17 @@
             43.111486
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 121",
-        "color": "#e600aa55",
-        "indice": 120
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PARA-REDONDO-HORNILLALATORRE-CIJUELO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -640388,15 +640636,17 @@
             43.070134
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 122",
-        "color": "#e6ffaaff",
-        "indice": 121
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "BEDON DESDE QUINTANAHEDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -643229,15 +643479,17 @@
             43.031338
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 123",
-        "color": "#99ffaaff",
-        "indice": 122
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "VUELTA AL PICON",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -646398,15 +646650,17 @@
             43.048442
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 124",
-        "color": "#990000ff",
-        "indice": 123
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CUESTAHEDO-BEDON-CUESTAHRDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -651291,15 +651545,17 @@
             43.043075
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 125",
-        "color": "#b30000ff",
-        "indice": 124
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "LA PARTE- EL COLLADO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -653052,15 +653308,17 @@
             43.043013
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 126",
-        "color": "#ffffaaff",
-        "indice": 125
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "HAZAS DE PALOMBAR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -655673,15 +655931,17 @@
             43.142639
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 127",
-        "color": "#e60000ff",
-        "indice": 126
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "VUELTA POR VALDESPINOSA I",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -658658,15 +658918,17 @@
             43.074575
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 128",
-        "color": "#ff0000ff",
-        "indice": 127
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "VUELTA POR VALDESPINOSA II",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -670127,15 +670389,17 @@
             43.076251
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 129",
-        "color": "#00ff00ff",
-        "indice": 128
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "LABERINTOS DE LA ENGAÑA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -672804,15 +673068,17 @@
             43.052507
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 130",
-        "color": "#0000ffff",
-        "indice": 129
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "SUBIDA AL COTERO DESDE LA ENGAÑA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -682005,15 +682271,17 @@
             43.056437
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 131",
-        "color": "#e600aa55",
-        "indice": 130
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PELADA Y EL PAÑO DESDE EL ALTO LA VARGA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -688514,15 +688782,17 @@
             43.036523
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 132",
-        "color": "#e6ffaaff",
-        "indice": 131
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "EL VENTANON DESDE PEDROSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -696123,15 +696393,17 @@
             43.007179
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 133",
-        "color": "#99ffaaff",
-        "indice": 132
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "VUELTA AL COLINA POR HAZA LOBA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -701260,15 +701532,17 @@
             43.213856
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 134",
-        "color": "#990000ff",
-        "indice": 133
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "APROXIMACION COLADERO BUENA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -702329,15 +702603,17 @@
             43.200321
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 135",
-        "color": "#b30000ff",
-        "indice": 134
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "HONDOJON MOTA LA FUENTE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -705282,15 +705558,17 @@
             43.18602860802694
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 136",
-        "color": "#ffffaaff",
-        "indice": 135
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PEÑA ORNEDO DESDE QUINTANILLA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -713859,15 +714137,17 @@
             43.057027
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 137",
-        "color": "#e60000ff",
-        "indice": 136
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "VUELTA ARROYO ULEMAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -719880,15 +720160,17 @@
             43.057304
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 138",
-        "color": "#ff0000ff",
-        "indice": 137
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "RIO SECO-PEÑA CHURRA-CASTRIOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -726753,15 +727035,17 @@
             43.101594
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 139",
-        "color": "#00ff00ff",
-        "indice": 138
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "COTERO LO ROZAO SIN ARGOMAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -727342,15 +727626,17 @@
             43.093437
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 140",
-        "color": "#0000ffff",
-        "indice": 139
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "BARRANCOS DEL MONTIRU Y LA CANALEJA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -731627,15 +731913,17 @@
             43.117963
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 141",
-        "color": "#e600aa55",
-        "indice": 140
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "RULAO-FUENTE LA PILA POR HOYO LAS HOJAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -732592,15 +732880,17 @@
             43.160899
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 142",
-        "color": "#e6ffaaff",
-        "indice": 141
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "RUTA DEL REBECO PERDIDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -736829,15 +737119,17 @@
             43.16393
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 143",
-        "color": "#99ffaaff",
-        "indice": 142
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CASCADA DEL ANDARAL DESDE LA SIA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -743802,15 +744094,17 @@
             43.157964
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 144",
-        "color": "#990000ff",
-        "indice": 143
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "BARCENIA-BESNUEVO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -747511,15 +747805,17 @@
             43.132755
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 145",
-        "color": "#b30000ff",
-        "indice": 144
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CACERNEJA DESDE BUSTITIA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -753636,15 +753932,17 @@
             43.123134
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 146",
-        "color": "#ffffaaff",
-        "indice": 145
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "ZALAMA POR RUPANDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -763049,15 +763347,17 @@
             43.112062
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 147",
-        "color": "#e60000ff",
-        "indice": 146
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "ALTO CERNEJA IV",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -774778,15 +775078,17 @@
             43.112238
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 148",
-        "color": "#ff0000ff",
-        "indice": 147
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "ALTO CERNEJA III",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -778795,15 +779097,17 @@
             43.127174
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 149",
-        "color": "#00ff00ff",
-        "indice": 148
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "ALTO CERNEJA II",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -782716,15 +783020,17 @@
             43.12734
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 150",
-        "color": "#0000ffff",
-        "indice": 149
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "ALTO CERNEJA I",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -790381,15 +790687,17 @@
             43.12727
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 151",
-        "color": "#e600aa55",
-        "indice": 150
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CASCADA DEL ANDARAL DESDE PICON BLANCO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -802254,15 +802562,17 @@
             43.129432
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 152",
-        "color": "#e6ffaaff",
-        "indice": 151
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PISTA RASTRIOS INFERIOR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -803911,15 +804221,17 @@
             43.11854218323225
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 153",
-        "color": "#99ffaaff",
-        "indice": 152
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CERNEJA DESDE ESPINOSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -810476,15 +810788,17 @@
             43.079458
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 154",
-        "color": "#990000ff",
-        "indice": 153
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "AGÜERA ESPINOSA POR NOCECO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -817433,15 +817747,17 @@
             43.074391
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 155",
-        "color": "#b30000ff",
-        "indice": 154
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "BAJADA DEL CERNEJA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -825214,15 +825530,17 @@
             43.10171863156484
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 156",
-        "color": "#ffffaaff",
-        "indice": 155
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "VUELTA AL VALLE DEL CURRO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -826371,15 +826689,17 @@
             43.130121
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 157",
-        "color": "#e60000ff",
-        "indice": 156
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PORTILLO DE OCEJO-LA VARA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -828856,15 +829176,17 @@
             43.152736
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 158",
-        "color": "#ff0000ff",
-        "indice": 157
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CAMINO ESTRAPERLO A LA VEGA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -831085,15 +831407,17 @@
             43.117584
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 159",
-        "color": "#00ff00ff",
-        "indice": 158
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CABAÑALES POR YERA Y AJAN",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -838490,15 +838814,17 @@
             43.117861
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 160",
-        "color": "#0000ffff",
-        "indice": 159
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PORTILLA-CV-PORTILLA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -846743,15 +847069,17 @@
             43.164726
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 161",
-        "color": "#e600aa55",
-        "indice": 160
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "PECHADA PASIEGA 2019",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -849472,15 +849800,17 @@
             43.13933367973656
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 162",
-        "color": "#e6ffaaff",
-        "indice": 161
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "COLINA-ALTO DE LOS DUJOS-CANTO DEL CUADRO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -852393,15 +852723,17 @@
             43.136031
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 163",
-        "color": "#99ffaaff",
-        "indice": 162
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "SUBIDA MONTE TOCORNALEJO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -852894,15 +853226,17 @@
             43.098475
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 164",
-        "color": "#990000ff",
-        "indice": 163
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "CABAÑA LARGA-COLLADIA DEL PARDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -855599,15 +855933,17 @@
             43.105161
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 165",
-        "color": "#b30000ff",
-        "indice": 164
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "RUYEMAS DESDE ESTACAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -865224,15 +865560,17 @@
             43.117693
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 166",
-        "color": "#ffffaaff",
-        "indice": 165
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "RESBALADERO-COVALRUYYO-VEINTE- GRAJERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -872289,15 +872627,17 @@
             43.17281283096876
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 167",
-        "color": "#e60000ff",
-        "indice": 166
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "COTERON-PICON DE LOS LASTREROS-MOTA DE CUCOLOBRERO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -877534,15 +877874,17 @@
             43.170049
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 168",
-        "color": "#ff0000ff",
-        "indice": 167
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "LA TRABA-CRESTA LOS LLARES-VALBUENA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -881295,15 +881637,17 @@
             43.171041
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 169",
-        "color": "#00ff00ff",
-        "indice": 168
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "SENDERO NORTE PICO LA MIEL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -883296,15 +883640,17 @@
             43.155958
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 170",
-        "color": "#0000ffff",
-        "indice": 169
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaa00",
+        "name": "VUELTA A PEÑA LUSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -887273,15 +887619,17 @@
             43.159432
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 171",
-        "color": "#e600aa55",
-        "indice": 170
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CAMINO DE FUENTEZANCOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -887754,15 +888102,17 @@
             43.07535
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 172",
-        "color": "#e6ffaaff",
-        "indice": 171
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ENLACE COTERA MAYOR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -888199,15 +888549,17 @@
             43.10136116477184
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 173",
-        "color": "#99ffaaff",
-        "indice": 172
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ALTO DEL CABALLO DESDE PORTILLO COVACHOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -888296,15 +888648,17 @@
             43.12481186652578
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 174",
-        "color": "#990000ff",
-        "indice": 173
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "LAS MOTAS-EL SIAR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -888481,15 +888835,17 @@
             43.11673963769468
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 175",
-        "color": "#b30000ff",
-        "indice": 174
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "RESQUEBRAJO-ESTREMECIN",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -888590,15 +888946,17 @@
             43.15483567015766
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 176",
-        "color": "#ffffaaff",
-        "indice": 175
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ENLACE PORTILLO ANGOSTO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -888855,15 +889213,17 @@
             43.005437
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 177",
-        "color": "#e60000ff",
-        "indice": 176
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "PEÑA GORDA-FUENTE LA PILA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -889188,15 +889548,17 @@
             43.161126
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 178",
-        "color": "#ff0000ff",
-        "indice": 177
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ENLACE HAYA GRANDE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.2
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -889765,15 +890127,17 @@
             43.063992
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 179",
-        "color": "#00ff00ff",
-        "indice": 178
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "RUCABAO-COBE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -889978,15 +890342,17 @@
             43.083747
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 180",
-        "color": "#0000ffff",
-        "indice": 179
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CALLEJO LA VARGUIA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -890223,15 +890589,17 @@
             43.126307
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 181",
-        "color": "#e600aa55",
-        "indice": 180
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "PRAMONTE- `PORTILLO DE TEJAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -891548,15 +891916,17 @@
             43.153266
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 182",
-        "color": "#e6ffaaff",
-        "indice": 181
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ATAJOS PUENTE TORME-EL REBULLO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -892501,15 +892871,17 @@
             43.124868
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 183",
-        "color": "#99ffaaff",
-        "indice": 182
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ACCESO A EL CUADRO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -893150,15 +893522,17 @@
             43.12894730508317
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 184",
-        "color": "#990000ff",
-        "indice": 183
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "PISTA NUEVA CERRAQUIN",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -893259,15 +893633,17 @@
             43.118726
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 185",
-        "color": "#b30000ff",
-        "indice": 184
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "PISTA SUBIDA LA HORCADA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -893664,15 +894040,17 @@
             43.11189
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 186",
-        "color": "#ffffaaff",
-        "indice": 185
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CALLEJO SUPERIOR FUENTERRABIOSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -894161,15 +894539,17 @@
             43.123472
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 187",
-        "color": "#e60000ff",
-        "indice": 186
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "LA UNQUERA-EL ROSTRO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -894586,15 +894966,17 @@
             43.1247738086848
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 188",
-        "color": "#ff0000ff",
-        "indice": 187
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ENLACE HONDOJON",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -894887,15 +895269,17 @@
             43.17860006349832
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 189",
-        "color": "#00ff00ff",
-        "indice": 188
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "RUTA SIN TÍTULO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -894924,15 +895308,17 @@
             43.17805248037611
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 190",
-        "color": "#0000ffff",
-        "indice": 189
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "VARIANTE HOYON DE SACO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -895617,15 +896003,17 @@
             43.217818
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 191",
-        "color": "#e600aa55",
-        "indice": 190
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "BRENARROMAN-CANAL HONDA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -896158,15 +896546,17 @@
             43.2000433283985
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 192",
-        "color": "#e6ffaaff",
-        "indice": 191
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ENLACE HONDOJON OSCAR HEAVY",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -897119,15 +897509,17 @@
             43.18016
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 193",
-        "color": "#99ffaaff",
-        "indice": 192
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CALLEJO LAS HOYAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -897276,15 +897668,17 @@
             43.113747
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 194",
-        "color": "#990000ff",
-        "indice": 193
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "TERTERUELO MOLINO LA LAMA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -898073,15 +898467,17 @@
             43.09475116875771
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 195",
-        "color": "#b30000ff",
-        "indice": 194
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CERRIO-VALLEJO-LA LOMA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -899854,15 +900250,17 @@
             43.097428
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 196",
-        "color": "#ffffaaff",
-        "indice": 195
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "RUTA SIN TÍTULO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -899971,15 +900369,17 @@
             43.10774805318447
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 197",
-        "color": "#e60000ff",
-        "indice": 196
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CALLEJO LOS PRADONES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -900628,15 +901028,17 @@
             43.123303
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 198",
-        "color": "#ff0000ff",
-        "indice": 197
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "FUENTE LOS DUJOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -901053,15 +901455,17 @@
             43.142323
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 199",
-        "color": "#00ff00ff",
-        "indice": 198
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CALLEJO LOS ATRANCOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -901142,15 +901546,17 @@
             43.12314877045434
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 200",
-        "color": "#0000ffff",
-        "indice": 199
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "SUBIDA ALTERNATIVA AL CURRO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -901587,15 +901993,17 @@
             43.123071
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 201",
-        "color": "#e600aa55",
-        "indice": 200
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "SUBIDA A LOS PORRONES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -902056,15 +902464,17 @@
             43.17112360433322
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 202",
-        "color": "#e6ffaaff",
-        "indice": 201
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "RUTA SIN TÍTULO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -902229,15 +902639,17 @@
             43.167953605539
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 203",
-        "color": "#99ffaaff",
-        "indice": 202
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ENLACE CALLEJA LAS MATANZAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -902646,15 +903058,17 @@
             43.16489519318927
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 204",
-        "color": "#990000ff",
-        "indice": 203
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ENLACE MONTE HAZANA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -903451,15 +903865,17 @@
             43.158703
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 205",
-        "color": "#b30000ff",
-        "indice": 204
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#55aa00",
+        "name": "IMUNIA DESDE LA SIA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -904100,15 +904516,17 @@
             43.150423
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 206",
-        "color": "#ffffaaff",
-        "indice": 205
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "SUBIDA NORMAL AL CASTRO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -904393,15 +904811,17 @@
             43.146572
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 207",
-        "color": "#e60000ff",
-        "indice": 206
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CASTRO POR LA GRAJERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -904518,15 +904938,17 @@
             43.143856
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 208",
-        "color": "#ff0000ff",
-        "indice": 207
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ENLACE RESQUEBRAJO LUNADA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -904671,15 +905093,17 @@
             43.15825930312418
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 209",
-        "color": "#00ff00ff",
-        "indice": 208
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CANIAL PEÑA LUSA I",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -904752,15 +905176,17 @@
             43.17014043849997
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 210",
-        "color": "#0000ffff",
-        "indice": 209
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "CANAL PEÑA LUSA II",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -904989,15 +905415,17 @@
             43.169807
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 211",
-        "color": "#e600aa55",
-        "indice": 210
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "TREPADA CANAL SUR LUSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -905170,15 +905598,17 @@
             43.169846
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 212",
-        "color": "#e6ffaaff",
-        "indice": 211
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ffaaff",
+        "name": "ENLACE POR LAS HAZAS DE LUSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -905519,15 +905949,17 @@
             43.17099
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 213",
-        "color": "#99ffaaff",
-        "indice": 212
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "TILO DE NOCEDA II",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.8
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -906200,15 +906632,17 @@
             43.051497
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 214",
-        "color": "#990000ff",
-        "indice": 213
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "TILO DE NOCEDA I",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.9
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -906841,15 +907275,17 @@
             43.051099
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 215",
-        "color": "#b30000ff",
-        "indice": 214
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "MONTE LA GRAJERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -907534,15 +907970,17 @@
             43.0801881680497
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 216",
-        "color": "#ffffaaff",
-        "indice": 215
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BARRANCO DEL ARGOMEDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -908499,15 +908937,17 @@
             43.15748
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 217",
-        "color": "#e60000ff",
-        "indice": 216
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BAJADA INFERNAL MOSQUITERU",
+        "stroke-opacity": 0.8,
+        "stroke-width": 0.8
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -909904,15 +910344,17 @@
             43.24719090997367
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 218",
-        "color": "#ff0000ff",
-        "indice": 217
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "PEÑA ROCIAS POR CANAL DEL TIJO Y CANTISCUELA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -915657,15 +916099,17 @@
             43.260842
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 219",
-        "color": "#00ff00ff",
-        "indice": 218
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "PILAR ESTENPEÑA LAVALLE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -917118,15 +917562,17 @@
             43.252712
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 220",
-        "color": "#0000ffff",
-        "indice": 219
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "LAS CRESPAS-PUENTEBADUNDU",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -918979,15 +919425,17 @@
             43.123137
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 221",
-        "color": "#e600aa55",
-        "indice": 220
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CORREDOR OBLICUO O LAINBROAK",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -919344,15 +919792,17 @@
             43.147768
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 222",
-        "color": "#e6ffaaff",
-        "indice": 221
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "PEÑA DE LAS HOYAS-SALDONDIEGO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -920201,15 +920651,17 @@
             43.109358
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 223",
-        "color": "#99ffaaff",
-        "indice": 222
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CANAL NORTE LOS PORRONES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -920262,15 +920714,17 @@
             43.172391
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 224",
-        "color": "#990000ff",
-        "indice": 223
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "MOTA PRIMERA-COLLADO DE LOS LOBOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -921635,15 +922089,17 @@
             43.200034
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 225",
-        "color": "#b30000ff",
-        "indice": 224
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "PICO LA MIEL NORTE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -922092,15 +922548,17 @@
             43.161748
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 226",
-        "color": "#ffffaaff",
-        "indice": 225
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "VARIANTE MARRUYERA HAZAS DE LAS MUELAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -922233,15 +922691,17 @@
             43.132513
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 227",
-        "color": "#e60000ff",
-        "indice": 226
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CALLEJONES DE LAS CUBADAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -922974,15 +923434,17 @@
             43.146811
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 228",
-        "color": "#ff0000ff",
-        "indice": 227
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "LA RASA-RULAU",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.8
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -924223,15 +924685,17 @@
             43.159316
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 229",
-        "color": "#00ff00ff",
-        "indice": 228
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "RULAU-PEÑA GORDA POR CUEVA CUMERIN",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.2
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -925124,15 +925588,17 @@
             43.159381
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 230",
-        "color": "#0000ffff",
-        "indice": 229
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "PEÑALBA POR LAS ESCALERAS MALAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -926205,15 +926671,17 @@
             43.068281
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 231",
-        "color": "#e600aa55",
-        "indice": 230
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CADAGUA-PEÑA MAYOR DIRECTA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.2
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -929002,15 +929470,17 @@
             43.073071
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 232",
-        "color": "#e6ffaaff",
-        "indice": 231
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ENLACE HAYAS ALTAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -929607,15 +930077,17 @@
             43.15607845499805
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 233",
-        "color": "#99ffaaff",
-        "indice": 232
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "SELES RIOSECO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.2
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -930828,15 +931300,17 @@
             43.102133
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 234",
-        "color": "#990000ff",
-        "indice": 233
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ARISTA BLANQUIAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -931157,15 +931631,17 @@
             43.15222015675329
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 235",
-        "color": "#b30000ff",
-        "indice": 234
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "LAS CONCHAS INTEGRAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -954746,15 +955222,17 @@
             43.006069
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 236",
-        "color": "#ffffaaff",
-        "indice": 235
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CUBADA Y BUSTIVIRONES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.5
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -956175,15 +956653,17 @@
             43.124044
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 237",
-        "color": "#e60000ff",
-        "indice": 236
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "VALLEJERAS Y CARBONERAS DE NOCEDA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -957176,15 +957656,17 @@
             43.05102
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 238",
-        "color": "#ff0000ff",
-        "indice": 237
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "MONTE COVACHOS Y MONTE VALMAYOR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -961301,15 +961783,17 @@
             43.0659
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 239",
-        "color": "#00ff00ff",
-        "indice": 238
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BASE PEÑA BEDON",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -961782,15 +962266,17 @@
             43.04419333471503
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 240",
-        "color": "#0000ffff",
-        "indice": 239
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "LLANA LA MESA Y MONTE PORTILLONES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -965183,15 +965669,17 @@
             43.133638
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 241",
-        "color": "#e600aa55",
-        "indice": 240
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ACCESO CUEVA DEL PUENTE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -968348,15 +968836,17 @@
             43.144679
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 242",
-        "color": "#e6ffaaff",
-        "indice": 241
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CAMINO PERDIDO LOS REBOLLONES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -969453,15 +969943,17 @@
             43.13491470462159
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 243",
-        "color": "#99ffaaff",
-        "indice": 242
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "MONTE TOCORNAL II",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -973106,15 +973598,17 @@
             43.1015
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 244",
-        "color": "#990000ff",
-        "indice": 243
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "MONTE TOCORNAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -976491,15 +976985,17 @@
             43.100821
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 245",
-        "color": "#b30000ff",
-        "indice": 244
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "PEÑAS DEL CANTON Y EL VIDULAR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -981668,15 +982164,17 @@
             43.107718
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 246",
-        "color": "#ffffaaff",
-        "indice": 245
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BERNABUJO-LAS CRESPAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -984305,15 +984803,17 @@
             43.115716
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 247",
-        "color": "#e60000ff",
-        "indice": 246
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CANAL HONDA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -985554,15 +986054,17 @@
             43.127332
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 248",
-        "color": "#ff0000ff",
-        "indice": 247
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CUESTA RASTRIOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 1.2
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -986947,15 +987449,17 @@
             43.118686
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 249",
-        "color": "#00ff00ff",
-        "indice": 248
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ALTO EL RASPANAL-CANAL HONDA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -987244,15 +987748,17 @@
             43.118077
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 250",
-        "color": "#0000ffff",
-        "indice": 249
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "SUBIDA ANTIGUA A CASTRIOS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -988013,15 +988519,17 @@
             43.108257
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 251",
-        "color": "#e600aa55",
-        "indice": 250
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "COLLADIA VIDULEO-BUSTIVIRONES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -988402,15 +988910,17 @@
             43.13045
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 252",
-        "color": "#e6ffaaff",
-        "indice": 251
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "LA UNQUERA-LAS DIVISAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -990303,15 +990813,17 @@
             43.11773
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 253",
-        "color": "#99ffaaff",
-        "indice": 252
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "VIDULEO-LA MAZA-TURRUNTUGAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -992276,15 +992788,17 @@
             43.118032
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 254",
-        "color": "#990000ff",
-        "indice": 253
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CHUZOS DE PEÑA NEGRA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -992729,15 +993243,17 @@
             43.13602757438021
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 255",
-        "color": "#b30000ff",
-        "indice": 254
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ACCESSO CUEVA DEL ORO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -994150,15 +994666,17 @@
             43.00291419566101
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 256",
-        "color": "#ffffaaff",
-        "indice": 255
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "MARRUYEANDO POR EL COSTAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -996339,15 +996857,17 @@
             43.078625
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 257",
-        "color": "#e60000ff",
-        "indice": 256
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "VUELTA MARRUYERA DESDE CARREDONDO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1002252,15 +1002772,17 @@
             43.137613
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 258",
-        "color": "#ff0000ff",
-        "indice": 257
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "LOS TRES CASTROS DEL HORNO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1006269,15 +1006791,17 @@
             43.107762
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 259",
-        "color": "#00ff00ff",
-        "indice": 258
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "VUELTA POR MONTE EL ALAR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1008290,15 +1008814,17 @@
             43.12109
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 260",
-        "color": "#0000ffff",
-        "indice": 259
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "RIOSECO TRUEBA POR MONTE EL ALAR",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1010943,15 +1011469,17 @@
             43.121127
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 261",
-        "color": "#e600aa55",
-        "indice": 260
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BEDON-PICON-PEÑA CABALLERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1014920,15 +1015448,17 @@
             43.050641
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 262",
-        "color": "#e6ffaaff",
-        "indice": 261
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ACCESOS BUSMATEMAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1016513,15 +1017043,17 @@
             43.10461
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 263",
-        "color": "#99ffaaff",
-        "indice": 262
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BOULDER VILLABASCONES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1021254,15 +1021786,17 @@
             43.04733
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 264",
-        "color": "#990000ff",
-        "indice": 263
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "LA FRENTE-BERNABUJO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1022047,15 +1022581,17 @@
             43.118921
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 265",
-        "color": "#b30000ff",
-        "indice": 264
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "VALDESCAÑO-EL CUADRADAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1022632,15 +1023168,17 @@
             43.1274
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 266",
-        "color": "#ffffaaff",
-        "indice": 265
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "VUELTA AL MONTE LA CUEVA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1029413,15 +1029951,17 @@
             43.049981
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 267",
-        "color": "#e60000ff",
-        "indice": 266
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BAJADA MONTE LAS BLANQUIAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1029694,15 +1030234,17 @@
             43.151445
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 268",
-        "color": "#ff0000ff",
-        "indice": 267
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "UTIRO-EL TEJUELO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1030955,15 +1031497,17 @@
             43.143846
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 269",
-        "color": "#00ff00ff",
-        "indice": 268
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "PEÑA PALOMBAR Y MAZA REDUNDU POR MONTE UTIRU",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1033392,15 +1033936,17 @@
             43.148282
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 270",
-        "color": "#0000ffff",
-        "indice": 269
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "LA BLANCA Y MAZA REDUNDU",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1037137,15 +1037683,17 @@
             43.148258
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 271",
-        "color": "#e600aa55",
-        "indice": 270
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "LA RASA POR LOS COPETES",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1038714,15 +1039262,17 @@
             43.156571
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 272",
-        "color": "#e6ffaaff",
-        "indice": 271
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "RODEO LA RASA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1039275,15 +1039825,17 @@
             43.153618
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 273",
-        "color": "#99ffaaff",
-        "indice": 272
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "EL CHUZU- VUELTA A PORRA DEL TRILLO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1040164,15 +1040716,17 @@
             43.158245
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 274",
-        "color": "#990000ff",
-        "indice": 273
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "PEÑAS GORDAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1042429,15 +1042983,17 @@
             43.176168
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 275",
-        "color": "#b30000ff",
-        "indice": 274
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CUBIOS DE PEÑARUBIA II",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1043078,15 +1043634,17 @@
             43.177705
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 276",
-        "color": "#ffffaaff",
-        "indice": 275
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CUBIOS DE PEÑARUBIA I",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1043523,15 +1044081,17 @@
             43.176811
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 277",
-        "color": "#e60000ff",
-        "indice": 276
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CARRIO-SELDECUENDE-LA VAGA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1044464,15 +1045024,17 @@
             43.190699
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 278",
-        "color": "#ff0000ff",
-        "indice": 277
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ATAJO LLUSIAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1045021,15 +1045583,17 @@
             43.199933
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 279",
-        "color": "#00ff00ff",
-        "indice": 278
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ARISTA E PORRA DEL TRILLO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1046590,15 +1047154,17 @@
             43.1642383431848
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 280",
-        "color": "#0000ffff",
-        "indice": 279
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ARISTA NORESTE ESCALON DE LA RASA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1048903,15 +1049469,17 @@
             43.16067
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 281",
-        "color": "#e600aa55",
-        "indice": 280
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BAJADA ARROYO ARGUMAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1049984,15 +1050552,17 @@
             43.16076
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 282",
-        "color": "#e6ffaaff",
-        "indice": 281
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BAJADA DOMINGUEROS POR EL TUBO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1050945,15 +1051515,17 @@
             43.155767
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 283",
-        "color": "#99ffaaff",
-        "indice": 282
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "BAJADA GUSMOR POR PEÑA HENAL",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1051686,15 +1052258,17 @@
             43.112268
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 284",
-        "color": "#990000ff",
-        "indice": 283
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CANAL DE LA VARA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1053175,15 +1053749,17 @@
             43.154159
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 285",
-        "color": "#b30000ff",
-        "indice": 284
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CASCADA DE LA COTERUELA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1057408,15 +1057984,17 @@
             43.117678
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 286",
-        "color": "#ffffaaff",
-        "indice": 285
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CASTRO POR CERVELLALOSA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1058997,15 +1059575,17 @@
             43.146793
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 287",
-        "color": "#e60000ff",
-        "indice": 286
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CASTRO POR EL OJO DEL BUITRE",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1060398,15 +1060978,17 @@
             43.148782
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 288",
-        "color": "#ff0000ff",
-        "indice": 287
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CIRCULAR ALTO DE LA GRAJERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1062299,15 +1062881,17 @@
             43.172697
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 289",
-        "color": "#00ff00ff",
-        "indice": 288
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CIRCULAR CUEVA DE LOS PURETAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1064728,15 +1065312,17 @@
             43.119485
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 290",
-        "color": "#0000ffff",
-        "indice": 289
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "COLLADIA DE GUSMOR-CASCADA SALCEDA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1067421,15 +1068007,17 @@
             43.078692
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 291",
-        "color": "#e600aa55",
-        "indice": 290
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "CORREDOR DE LA X Y DESTREPE POR LA GRAJERA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1071334,15 +1071922,17 @@
             43.147631
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 292",
-        "color": "#e6ffaaff",
-        "indice": 291
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "DESTREPE GRAJERA II",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1072003,15 +1072593,17 @@
             43.141705
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 293",
-        "color": "#99ffaaff",
-        "indice": 292
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "ESTACAS CIERROPOÑOSO ESTACAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1076268,15 +1076860,17 @@
             43.117877
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 294",
-        "color": "#990000ff",
-        "indice": 293
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "PORTILLO LOS CARROS-CABAÑA LARGA (ARGOMAS)",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1077361,15 +1077955,17 @@
             43.077172
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 295",
-        "color": "#b30000ff",
-        "indice": 294
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "RENDIJON CUBIA FRIA ESCALERUCAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1078378,15 +1078974,17 @@
             43.176954
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 296",
-        "color": "#ffffaaff",
-        "indice": 295
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "SUBIDA POR RETORCAO Y LA MAZUCA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1079691,15 +1080289,17 @@
             43.133077
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 297",
-        "color": "#e60000ff",
-        "indice": 296
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "TORRENTE NORA",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1084348,15 +1084948,17 @@
             43.066714
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 298",
-        "color": "#ff0000ff",
-        "indice": 297
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#ff0000",
+        "name": "VUELTA PICO CERNICULIS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1089137,15 +1089739,17 @@
             43.12123
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 299",
-        "color": "#00ff00ff",
-        "indice": 298
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "1 11 2025",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1090566,15 +1091170,17 @@
             43.078104
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 300",
-        "color": "#0000ffff",
-        "indice": 299
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "18 10 25",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1092199,15 +1092805,17 @@
             43.106072
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 301",
-        "color": "#e600aa55",
-        "indice": 300
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "11 10 25",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1093572,15 +1094180,17 @@
             43.142299
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 302",
-        "color": "#e6ffaaff",
-        "indice": 301
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "SETAS YUNYERRO",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1094525,15 +1095135,17 @@
             43.05227
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 303",
-        "color": "#99ffaaff",
-        "indice": 302
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "LACTARIUS QUINTANENSIS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 3.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1095514,15 +1096126,17 @@
             43.100089
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 304",
-        "color": "#990000ff",
-        "indice": 303
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "27 9 24",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1096611,15 +1097225,17 @@
             43.116553
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 305",
-        "color": "#b30000ff",
-        "indice": 304
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "MONTE ULEMAS",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1101704,15 +1102320,17 @@
             43.060517
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 306",
-        "color": "#ffffaaff",
-        "indice": 305
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "12 10 2020",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1104473,15 +1105091,17 @@
             43.075784
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 307",
-        "color": "#e60000ff",
-        "indice": 306
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "10 10 2020",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1106666,15 +1107286,17 @@
             43.071933
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 308",
-        "color": "#ff0000ff",
-        "indice": 307
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "21 9 24",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1108791,15 +1109413,17 @@
             43.104446
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 309",
-        "color": "#00ff00ff",
-        "indice": 308
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "30 09 23",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1110044,15 +1110668,17 @@
             43.09656
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 310",
-        "color": "#0000ffff",
-        "indice": 309
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "8 10 21",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1113909,15 +1114535,17 @@
             43.130906
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 311",
-        "color": "#e600aa55",
-        "indice": 310
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "description": "",
+        "stroke": "#000000",
+        "name": "12 10 22",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2.0
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1117938,12 +1118566,8 @@
             43.136843
           ]
         ]
-      },
-      "properties": {
-        "nombre": "Ruta 312",
-        "color": "#e6ffaaff",
-        "indice": 311
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
